@@ -3,8 +3,8 @@
 ###
 <div>  
   <p align="left">💻 A júnior fullstack developer from Brazil</p>
-  <p align="left">- I’m currently working at Sistema Fiergs</p>
-  <p align="left">- Academic in Systems Analysis and Development.</p>
+  <p align="left">🏢 I’m currently working at Sistema Fiergs</p>
+  <p align="left">🎓 Academic in Systems Analysis and Development.</p>
 </div>
 
 
